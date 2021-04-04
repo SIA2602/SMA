@@ -3,7 +3,7 @@
 
 Descrição do Problema: http://www.galirows.com.br/meublog/blog/implementacao-sma-python-spade1/
 
-Na Pasta Contem dois arquivos:
+Na Pasta Contem dois arquivos:<br>
 ->Gerador.py (Responsavel por gerar uma funcao do 1 grau aleatoria para ser resolvida pelo resolvedor)
 ->Resolvedor.py (Responsavel por resolver a funcao gerada pelo gerador atraves do recebimento de sucessivos valores)
 
