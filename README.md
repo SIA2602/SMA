@@ -1,6 +1,5 @@
-# SMA
+# SMA - Trabalho Realizado para a Disciplina EMB5617 - Sistemas Inteligentes ministrada na UFSC Campus Joinville
 # Equipe: Acir Marconato Junior (16250205) e Danilo José da Silva (16150413)
-# Trabalho Realizado para a Disciplina EMB5617- Sistemas Inteligentes ministrada na UFSC Campus Joinville
 
 Descrição do Problema: http://www.galirows.com.br/meublog/blog/implementacao-sma-python-spade1/
 
