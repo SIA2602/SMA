@@ -4,13 +4,13 @@
 Descrição do Problema: http://www.galirows.com.br/meublog/blog/implementacao-sma-python-spade1/
 
 Na Pasta Contem dois arquivos:<br>
-->Gerador.py (Responsavel por gerar uma funcao do 1 grau aleatoria para ser resolvida pelo resolvedor)
-->Resolvedor.py (Responsavel por resolver a funcao gerada pelo gerador atraves do recebimento de sucessivos valores)
+->Gerador.py (Responsavel por gerar uma funcao do 1 grau aleatoria para ser resolvida pelo resolvedor)<br>
+->Resolvedor.py (Responsavel por resolver a funcao gerada pelo gerador atraves do recebimento de sucessivos valores)<br><br>
 
-Para Rodar a Aplicacao utilizar a plataforma: https://replit.com
+Para Rodar a Aplicacao utilizar a plataforma: https://replit.com<br><br>
 
-Execução:
-->Na plataforma indicada execute primeiro o Gerador.py
+Execução:<br>
+->Na plataforma indicada execute primeiro o Gerador.py<br>
 ->Apos ter aparecido na tela do gerador o print da funcao gerada, executar o Resolvedor.py
 
 
